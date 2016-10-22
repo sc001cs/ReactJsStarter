@@ -1,0 +1,5 @@
+Package installed for this sample
+
+npm install --save youtube-api-search
+
+npm install --save lodash
